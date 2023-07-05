@@ -1,0 +1,4 @@
+# JP-Morgan-Chase-Co-virtual-internship
+I completed a virtual internship with Quantitative Research (QR) which is an expert quantitative modeling group at JPMorgan Chase, as well as a leader in financial engineering, data analytics, and portfolio management.
+As a global team, QR partners with traders, marketers, and risk managers across all products and regions and contributes to sales and client interaction, product innovation, valuation, risk management, inventory and portfolio optimization, electronic trading and market making, and appropriate financial risk controls.
+During this program, I got the opportunity to step into the shoes of a JP Morgan Chase team member and complete tasks that replicate the work that the QR team does every day. Up-skilled in data analysis, programming, and financial mathematics.
